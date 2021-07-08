@@ -1,2 +1,2 @@
-# IITB-SSP-Miniproject-Reet
+# IITB-SSP-GLEE-Reet
 Miniproject on Devito for IITB Satellite team recruitment
